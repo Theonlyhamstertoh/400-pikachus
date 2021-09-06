@@ -1,0 +1,19 @@
+{
+  "name": "pixi-element-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "parcel  src/index.html --open",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^6.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}
