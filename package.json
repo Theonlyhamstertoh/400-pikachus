@@ -2,10 +2,10 @@
   "name": "pixi-element-tut",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "scripts": {
-    "dev": "parcel  src/index.html --open",
-    "vercel-build": "parcel build src/index.html --no-minify",
+    "dev": "parcel  index.html --open",
+    "vercel-build": "parcel build index.html --no-minify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
