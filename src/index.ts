@@ -1,8 +1,6 @@
 import * as PIXI from "pixi.js";
 
 import { AsciiFilter } from "@pixi/filter-ascii";
-import { DotFilter } from "@pixi/filter-dot";
-import "./styles.css";
 const app = new PIXI.Application({
   // what this does is chose the already created canvas as the app canvas
   view: document.getElementById("pixi-canvas") as HTMLCanvasElement,
