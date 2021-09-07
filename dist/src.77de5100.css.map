@@ -1,1 +1,0 @@
-{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"src.77de5100.css","sourceRoot":"..\\src","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  overflow: hidden;\n}\n"]}
